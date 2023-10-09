@@ -5,6 +5,10 @@
 比赛相关情况可以从https://challenge.xfyun.cn/topic/info?type=next-day-price-fluctuations获取
 ![image](https://github.com/xuxiran/stock_prediction/assets/48015859/62072159-6b88-4063-87e0-7745a58673e3)
 
+注意：我们重新对数据进行了标注，并形成了数据集Financial_Report_202306_202309。需要联系我们请求数据集，您可以联系2001111407@stu.pku.edu.cn。
+由于可能存在的法律风险，我们只接受中国大陆国内edu邮箱的请求，并且请求者需要实名承诺只用于学术研究。
+
+
 解决方案
 团队成员认为，当前主办方提供的数据不足以成功训练一个财报-涨跌模型。因此，团队从公开网站上分工收集不同来源的财报。
 经过数据清洗后，我们共整理出62284条财报pdf的文本数据（使用PyPDF2），并对其进行了标签标注。
