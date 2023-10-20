@@ -1,7 +1,7 @@
 # stock_prediction
 
 这是本项目的解决方案简介。首先我们将介绍测试相关代码，然后介绍训练相关代码。python环境为3.9，torch版本为1.13.0
-我们在算法挑战赛“基于财报的次日价格涨跌预测挑战赛”中获得了第一名。由于本比赛队员并不全部来自于北京大学，因此未更改队名。
+我们在算法挑战赛“基于财报的次日价格涨跌预测挑战赛”中获得了第一名。队名为“投资需谨慎”。
 比赛相关情况可以从https://challenge.xfyun.cn/topic/info?type=next-day-price-fluctuations
 获取
 ![image](https://github.com/xuxiran/stock_prediction/assets/48015859/cc9da554-ca32-4dbf-916c-af6f3e929959)
