@@ -4,7 +4,8 @@
 我们在算法挑战赛“基于财报的次日价格涨跌预测挑战赛”中获得了第一名。由于本比赛队员并不全部来自于北京大学，因此未更改队名。
 比赛相关情况可以从https://challenge.xfyun.cn/topic/info?type=next-day-price-fluctuations
 获取
-![image](https://github.com/xuxiran/stock_prediction/assets/48015859/62072159-6b88-4063-87e0-7745a58673e3)
+![image](https://github.com/xuxiran/stock_prediction/assets/48015859/cc9da554-ca32-4dbf-916c-af6f3e929959)
+
 
 注意：我们重新对数据进行了标注，并形成了数据集Financial_Report_202306_202309。需要联系我们请求数据集，您可以联系2001111407@stu.pku.edu.cn。
 由于可能存在的法律风险，我们只接受中国大陆国内edu邮箱的请求，并且请求者需要实名承诺只用于学术研究。
